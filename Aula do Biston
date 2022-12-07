@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T19:59:26.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="8gG93zMEXnMUWeo_b93Q" type="github"><diagram id="M3DTxxwencgQcX490KYT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-07T20:15:50.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="ZlSZkajYrbo7Ji0oLYQX" type="github">
+  <diagram id="G6jPNiRbfrdM3yb77S5m" name="Página-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5cUJs8T7iryPFluY3VDM-4" value="Carinho" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5cUJs8T7iryPFluY3VDM-5" value="-produto: Produto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="5cUJs8T7iryPFluY3VDM-4">
+          <mxGeometry y="30" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5cUJs8T7iryPFluY3VDM-6" value="-total a pagar: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="5cUJs8T7iryPFluY3VDM-4">
+          <mxGeometry y="80" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5cUJs8T7iryPFluY3VDM-7" value="-cupom: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="5cUJs8T7iryPFluY3VDM-4">
+          <mxGeometry y="130" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5cUJs8T7iryPFluY3VDM-13" value="" style="whiteSpace=wrap;html=1;fontSize=19;fontStyle=0;startSize=30;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5cUJs8T7iryPFluY3VDM-15" value="+verificarCupom(): float" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="205" y="250" width="220" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
